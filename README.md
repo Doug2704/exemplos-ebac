@@ -1,2 +1,3 @@
 # exemplos-ebac
-exemplos das aulas da E.B.A.C.
+exemplos de projetos para o curso "Profissão: especialista back-end java"
+da E.B.A.C. - Escola Britânica de Artes Criativas e Tecnologia.
